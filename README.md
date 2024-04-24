@@ -1,2 +1,8 @@
 # Estancia2024
 This article explores the fusion of transfer learning and dimensional reduction techniques in the context of machine learning, with a specific focus on replicating and enhancing the findings of a prior study by Dr. Juan Ivan Gomez Peralta et al. published in the Journal of Physical Chemistry. The study aims to estimate lattice parameters in organic compounds using convolutional neural networks (CNNs) and crystallographic information. Through a series of experiments, the authors train and evaluate multiple models using different combinations of features and variations, including the application of principal component analysis (PCA) for dimensionality reduction. Additionally, a K-nearest neighbors (KNN) model is introduced for comparative analysis. Results indicate that models trained with reduced features, particularly those retaining 80 percent variance, demonstrate comparable performance to models using full features but with significantly reduced training times. Moreover, incorporating space group representative values alongside reduced features leads to further improvements in performance and reduced training time. The article underscores the effectiveness of combining transfer learning and dimensional reduction techniques for streamlined machine learning model development, particularly in the domain of material science and crystallography. In addition with each model graphics and RMSE values.
+
+
+### Data
+If you feel interested in this project and you want to know more about its data and process, feel free to contact me or Dr. Juan Ivan Gomez Peralta, my mentor during the project.
+gomezperalta.ai@gmail.com
+luismichelpcontacto@gmail.com
